@@ -9,7 +9,7 @@ Welcome to the **Get Started Boilerplate**! This project provides a robust and s
 - **Clean Architecture**: A scalable structure following Domain-Driven Design principles.
 - **Boilerplate Automation**: Quickly generate feature modules using **Mason**.
 - **Dark Mode**: Fully supported with customizable themes.
-- **Advanced Image Loading**: A custom `CustomImageView` widget that supports all image types, including SVG.
+- **Advanced Image Loading**: A custom `ImageView` widget that supports all image types, including SVG.
 - **Caching**: Efficient caching for network requests to improve performance.
 - **Utilities and Extensions**: Reusable utilities, extensions, and validators to simplify development.
 - **Localization**: Multilingual support using **easy_localization**.
